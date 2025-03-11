@@ -61,3 +61,4 @@ personal
 * por ejemplo yo pague una vela de costo $1000 ahora esta de costo 1100 muy probablemente el margen de ganancia no sea %30, va a ser %25\
   Aparte ahora los márgenes de ganancia se van a definir por categoría.
 * Un vez al mes se debe revisar todos lo precios de costos y tambien los precios ventas&#x20;
+* Es importantisimo tener correctamente organizada la carpeta de comercial y producto porque de aca se desprenden mucho proceso por ejemplo la busqueda de las fotos de tienda nube, catalogo y tambien la configuracion de campañas para CM es el unico lugar donde se puede indivializar el producto pudiendo identificarlo correctamente.&#x20;

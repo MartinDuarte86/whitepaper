@@ -5,3 +5,4 @@
 * [Cierre de caja Diario](cierre-de-caja-diario.md)
 * [Gestion de cuenta Corriente](gestion-de-cuenta-corriente.md)
 * [Politica de descuento](politica-de-descuento.md)
+* [Organización de la Carpeta Comercial](organizacion-de-la-carpeta-comercial.md)
