@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Myananda](README.md)
+  * [Proceso Internos](myananda/proceso-internos.md)
   * [Manual de Usuario](myananda/manual-de-usuario/README.md)
     * [Gestión de Cuenta Corriente](myananda/manual-de-usuario/gestion-de-cuenta-corriente.md)
     * [Cierre de caja diario](myananda/manual-de-usuario/cierre-de-caja-diario.md)
