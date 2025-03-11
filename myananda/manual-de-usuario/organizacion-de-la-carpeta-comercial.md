@@ -69,7 +69,9 @@ Siguiendo esta estructura, garantizamos un orden lógico y accesible para todos 
 
 \
 \
-Errores&#x20;
+
+
+## Errores
 
 * Hay fotos sin asignar a un productos
 
