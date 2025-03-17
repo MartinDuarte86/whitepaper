@@ -9,7 +9,7 @@
     * [Actualización de Precios en Tienda Nube y Showroom](myananda/manual-de-usuario/actualizacion-de-precios-en-tienda-nube-y-showroom.md)
     * [Politica de descuento](myananda/manual-de-usuario/politica-de-descuento.md)
     * [Organización de la Carpeta Comercial](myananda/manual-de-usuario/organizacion-de-la-carpeta-comercial.md)
-    * [Link de pago](myananda/manual-de-usuario/link-de-pago.md)
+    * [Como crear link de pago (ML)](myananda/manual-de-usuario/como-crear-link-de-pago-ml.md)
   * [Proximo paso](myananda/proximo-paso.md)
   * [Copy of Noelia](myananda/copy-of-noelia.md)
   * [Tareas de Noelia](myananda/tareas-de-noelia.md)
