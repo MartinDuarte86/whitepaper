@@ -1,4 +1,4 @@
-# Link de pago
+# Como crear link de pago (ML)
 
 Video de como se debe crear el link de pago desde la PC \
 [https://drive.google.com/file/d/14w2ojBUpPnHtXoICOpV-t\_gAQ3foYQNm/view?usp=drive\_link](https://drive.google.com/file/d/14w2ojBUpPnHtXoICOpV-t_gAQ3foYQNm/view?usp=drive_link)

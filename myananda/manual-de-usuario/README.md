@@ -5,6 +5,6 @@
 * [Cierre de caja Diario](cierre-de-caja-diario.md)
 * [Gestion de cuenta Corriente](gestion-de-cuenta-corriente.md)
 * [Politica de descuento](politica-de-descuento.md)
-* [Organización de la Carpeta Comercial](organizacion-de-la-carpeta-comercial.md)
+* [Organización de la Carpeta Comercial](link-de-pago.md)
 * [Como crear Link de pago](https://app.gitbook.com/o/91RmUbf4Qz1gvAw5o2Sg/s/ZMRzWGbKoqiF0QR89QWN/~/changes/19/myananda/manual-de-usuario/como-crear-link-de-pago-ml)
 
