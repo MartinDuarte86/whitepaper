@@ -44,7 +44,26 @@ Ejemplo:
 * **Si un producto no tiene su carpeta con SKU y nombre correctamente configurados, no aparecerá en el catálogo.**
 * Las imágenes también deben estar correctamente organizadas, ya que el catálogo solo incluirá productos bien estructurados.
 
-### **5. Reglas para Mantener el Orden en la Carpeta**
+
+
+### 5. Estructura de Carpetas y Descripción de Cada Categoría
+
+A continuación, se detallan los nombres y la finalidad de las subcarpetas que deben hallarse (o crearse) dentro de la carpeta principal:
+
+1. **000-Con Fondo**
+   * **Descripción**: Aquí se colocarán todas las fotos que tengan algún tipo de fondo (cualquiera) excepto las de fondo blanco puro.
+   * **Uso**: Estas imágenes pueden incluir escenarios, props, ambientes o texturas. Se utilizan, por ejemplo, para publicaciones en redes sociales donde se quiera mostrar el producto en un contexto llamativo.
+2. **001-Sin Fondo**
+   * **Descripción**: Solo fotos cuyo fondo sea **completamente blanco** (RGB 255,255,255).
+   * **Uso**: Se emplean en el sitio web oficial o en listados donde se busque un look limpio y estandarizado (p. ej., tienda online).
+3. **003-ML** (Mercado Libre)
+   * **Descripción**: Dentro de esta carpeta, para cada SKU o modelo de producto, se colocarán únicamente:
+     * Las fotos que **tengan fondo blanco** (idénticas a las de 001).
+     * **La imagen principal** que mejor represente el producto (puede coincidir con una de las de fondo blanco).
+   * **Uso**: Estas imágenes son exclusivas para la publicación en Mercado Libre. En ML es obligatorio que la foto principal tenga fondo blanco, y opcionalmente se pueden agregar variantes.
+4. **004-Catalogo**
+   * **Descripción**: Contendrá **una sola foto** por cada producto, seleccionada cuidadosamente para su inclusión en catálogos (digitales o impresos).
+   * **Uso**: Esta imagen debe cumplir criterios de alta resolución, buena iluminación y encuadre que permita que el catálogo luzca profesional.
 
 Para garantizar una correcta organización y evitar errores en el catálogo:
 
