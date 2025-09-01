@@ -11,6 +11,7 @@
     * [Organización de la Carpeta Comercial](myananda/manual-de-usuario/organizacion-de-la-carpeta-comercial.md)
     * [Como crear link de pago (ML)](myananda/manual-de-usuario/link-de-pago.md)
     * [Excel de Lista de precio](myananda/manual-de-usuario/excel-de-lista-de-precio.md)
+    * [Video de alta de usuario y primera compra](myananda/manual-de-usuario/video-de-alta-de-usuario-y-primera-compra.md)
   * [Proximo paso](myananda/proximo-paso.md)
   * [Copy of Noelia](myananda/copy-of-noelia.md)
   * [Tareas de Noelia](myananda/tareas-de-noelia.md)
