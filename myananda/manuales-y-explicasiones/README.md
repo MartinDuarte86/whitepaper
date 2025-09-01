@@ -1,4 +1,4 @@
-# Manual de Usuario
+# Manuales y Explicasiones
 
 * A[ctualizacion de precios en Tienda Nube y Showroom](actualizacion-de-precios-en-tienda-nube-y-showroom.md)
 * [Registracion de gastos](registracion-de-gastos.md)
@@ -8,4 +8,5 @@
 * [Organización de la Carpeta Comercial](organizacion-de-la-carpeta-comercial.md)
 * [Como crear Link de pago](https://app.gitbook.com/o/91RmUbf4Qz1gvAw5o2Sg/s/ZMRzWGbKoqiF0QR89QWN/~/changes/19/myananda/manual-de-usuario/como-crear-link-de-pago-ml)
 * [Video de alta de usuario y primera compra](video-de-alta-de-usuario-y-primera-compra.md)
+* [Criterios de Selección para Restock para MyAnanda Emprende](criterios-de-seleccion-para-restock.md)
 

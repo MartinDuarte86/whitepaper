@@ -12,6 +12,7 @@
     * [Como crear link de pago (ML)](myananda/manuales-y-explicasiones/como-crear-link-de-pago-ml.md)
     * [Excel de Lista de precio](myananda/manuales-y-explicasiones/excel-de-lista-de-precio.md)
     * [Video de alta de usuario y primera compra](myananda/manuales-y-explicasiones/video-de-alta-de-usuario-y-primera-compra.md)
+    * [Criterios de Selección para Restock](myananda/manuales-y-explicasiones/criterios-de-seleccion-para-restock.md)
   * [Proximo paso](myananda/proximo-paso.md)
   * [Copy of Noelia](myananda/copy-of-noelia.md)
   * [Tareas de Noelia](myananda/tareas-de-noelia.md)
