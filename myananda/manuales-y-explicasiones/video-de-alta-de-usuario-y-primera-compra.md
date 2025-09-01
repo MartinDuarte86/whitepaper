@@ -1,66 +1,71 @@
 # Video de alta de usuario y primera compra
 
-## 📖 Manual de Usuario Interno – Acceso y uso de videos de ayuda MyAnanda
+## 📖 Manual de Usuario Interno – Acceso y Uso de Videos de Ayuda MyAnanda
 
 ### 🎯 Objetivo del documento
 
-Este manual es de uso **exclusivo para el equipo de MyAnanda**.\
-Su función es explicar qué videos están disponibles en la carpeta de Google Drive, para qué sirven y cómo compartirlos con los clientes que lo necesiten.
+Este manual es de uso **exclusivo para el equipo interno de MyAnanda**.\
+Su función es explicar qué videos de ayuda están disponibles, para qué sirven y cómo deben compartirse con los clientes que lo necesiten.
 
-⚠️ **Importante:** Los clientes solo recibirán los **videos**, nunca este manual.
+⚠️ **Importante:** Los clientes solo recibirán los videos, nunca este manual.
 
 ***
 
 ### 📂 Ubicación de los videos
 
-Los videos se encuentran en la carpeta de Google Drive llamada:
+Actualmente hay **dos videos principales de ayuda**:
 
-[Videos en google drive](https://drive.google.com/drive/folders/1On3NTRhdCxsyAr7MvpoazN0VZXXgj5-l)&#x20;
-
-Dentro de esta carpeta hay **dos videos principales**:
-
-1. **Alta de usuario**
-   * Explica cómo registrarse en la página web [mayananda.com.ar](https://mayananda.com.ar/?utm_source=chatgpt.com).
-   * Se recomienda compartir este video cuando un cliente no sabe cómo crear su cuenta.
-2. **Compra de producto**
+1. **Alta de usuario – MyAnanda.com.ar**
+   * 📺 Está publicado en el canal de YouTube **MayAnanda Holístico**.
+   * 🔗 [Ver video en YouTube](https://youtu.be/iszNn-K2tYc?utm_source=chatgpt.com)
+   * Explica paso a paso cómo registrarse en la página web [mayananda.com.ar](https://mayananda.com.ar/?utm_source=chatgpt.com).
+   * ✅ Se recomienda compartir este video cuando un cliente no sabe cómo crear su cuenta.
+2. **Compra de producto – MyAnanda.com.ar**
+   * 📂 Está alojado en la carpeta interna de Google Drive: **“comercial video-web-medio-mayananda”**.
+   * 🔗 [Ver video en YouTube](https://youtu.be/gGU2HO7KjgY?utm_source=chatgpt.com) _(en proceso de migración a YouTube, ya disponible para compartir)_.
    * Muestra el proceso completo para seleccionar productos, generar un pedido y finalizar la compra en la web.
-   * Se recomienda compartir este video cuando un cliente no entiende cómo hacer un pedido.
+   * ✅ Se recomienda compartir este video cuando un cliente no entiende cómo hacer un pedido.
 
 ***
 
 ### 🛠️ Instrucciones para el equipo interno
 
-#### Paso 1: Acceder a la carpeta
+#### Paso 1: Identificar la necesidad del cliente
 
-1. Ingresar al enlace interno de Google Drive proporcionado por el área comercial.
-2. Abrir la carpeta [Videos en google drive](https://drive.google.com/drive/folders/1On3NTRhdCxsyAr7MvpoazN0VZXXgj5-l)&#x20;
-3. Identificar los dos archivos de video.
+* Si el cliente **no sabe cómo registrarse** → enviar el video de **Alta de usuario (YouTube)**.
+* Si el cliente **no entiende cómo comprar** → enviar el video de **Compra de producto** (usar el enlace de YouTube o Google Drive mientras dure la migración).
 
-#### Paso 2: Seleccionar el video a compartir
+#### Paso 2: Compartir el video con el cliente
 
-* Según la necesidad del cliente, elegir entre:
-  * **Alta de usuario** (si no sabe registrarse).
-  * **Compra de producto** (si no sabe comprar).
+1. Copiar el enlace correspondiente (YouTube o Google Drive según el caso).
+2. Enviarlo por el canal de comunicación adecuado (WhatsApp, correo electrónico, etc.).
+3. Confirmar que el enlace abre correctamente.
 
-#### Paso 3: Compartir el video con el cliente
+#### Paso 3: Configuración de permisos (solo Google Drive)
 
-1. Hacer clic derecho sobre el video.
-2. Seleccionar **“Obtener enlace”**.
-3. Configurar el enlace con el permiso:
-   * **“Cualquier persona con el enlace puede ver”** (solo visualización).
-4. Copiar el enlace y enviarlo al cliente por el canal de comunicación correspondiente (WhatsApp, correo electrónico, etc.).
+* Si se comparte desde Drive, asegurarse de configurar el enlace con el permiso:\
+  &#xNAN;**“Cualquier persona con el enlace puede ver”**.
 
 ***
 
 ### 💡 Recomendaciones
 
-* **No compartir nunca este manual** con clientes.
-* Verificar que el enlace esté activo antes de enviarlo.
-* Si un cliente tiene problemas de acceso, confirmar que el enlace se configuró en modo **“Cualquiera con el enlace”**.
-* Usar siempre un lenguaje simple al enviar el enlace, por ejemplo:
+* **Nunca compartir este manual con clientes.**
+* Siempre verificar que los enlaces funcionen antes de enviarlos.
+* Usar un lenguaje claro y simple al compartir:
   * _“Te comparto este video que muestra cómo crear tu usuario en la web de MyAnanda.”_
   * _“Aquí tenés el video con el paso a paso para hacer una compra en la web.”_
+* A medida que más videos se publiquen en YouTube, priorizar compartir los enlaces desde allí (más accesible para clientes).
 
 ***
 
-✅ Con este manual, el equipo interno de MyAnanda tendrá claro qué video enviar a cada cliente y cómo hacerlo de manera rápida y segura.
+### ✅ Conclusión
+
+Con este manual, el equipo interno de MyAnanda tendrá claridad sobre:
+
+* Qué videos existen.
+* Para qué sirve cada uno.
+* Dónde están alojados.
+* Cómo compartirlos de manera correcta con los clientes.
+
+De esta manera, se asegura una comunicación ordenada y efectiva al momento de brindar soporte.
