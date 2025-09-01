@@ -41,7 +41,7 @@ Aquí te propongo una **estructura de procesos internos**&#x20;
 #### **2.1 Mantenimiento de la Tienda Online**
 
 * Actualización de productos, precios y descripciones.
-  * A[ctualizacion de precios en Tienda Nube y Showroom](manual-de-usuario/actualizacion-de-precios-en-tienda-nube-y-showroom.md)
+  * A[ctualizacion de precios en Tienda Nube y Showroom](manuales-y-explicasiones/actualizacion-de-precios-en-tienda-nube-y-showroom.md)
 * Optimización de imágenes y contenido SEO.
 * Pruebas regulares para asegurar que la web funcione sin errores.
 
