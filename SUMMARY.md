@@ -14,6 +14,7 @@
     * [Video de alta de usuario y primera compra](myananda/manuales-y-explicaciones/video-de-alta-de-usuario-y-primera-compra.md)
     * [Criterios de Selección para Restock](myananda/manuales-y-explicaciones/criterios-de-seleccion-para-restock.md)
     * [Acceso y Uso del Tablero de Ventas y Gastos](myananda/manuales-y-explicaciones/acceso-y-uso-del-tablero-de-ventas-y-gastos.md)
+    * [MyAnandaTool — Manual de Uso](myananda/manuales-y-explicaciones/myananda-tool-manual-de-uso.md)
   * [Proximo paso](myananda/proximo-paso.md)
   * [Copy of Noelia](myananda/copy-of-noelia.md)
   * [Tareas de Noelia](myananda/tareas-de-noelia.md)
